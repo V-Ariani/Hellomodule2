@@ -1,0 +1,35 @@
+#page-wrap {
+  width:500px;
+  margin: 0 auto;
+}
+
+h1 {
+  color:purple;
+  font-size: 60px;
+  /*background-color:#b0c4de*/
+}
+
+p.firstParagraph {
+  color:White;
+}
+
+a:hover {
+  Color: hotpink;
+}
+
+#boxModel {
+  background-color: hotpink;
+  width: 300px;
+  border: 25px solid purple;
+  padding: 25px;
+  margin: 25px;
+}
+
+body {
+  background-image:
+    url(https://s-media-cache-ak0.pinimg.com/736x/c0/f7/41/c0f741e3296b02a32c12702d361478b1.jpg);
+  -webkit-background-siz: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
