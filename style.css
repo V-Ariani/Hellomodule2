@@ -28,7 +28,7 @@ a:hover {
 body {
   background-image:
     url(https://s-media-cache-ak0.pinimg.com/736x/c0/f7/41/c0f741e3296b02a32c12702d361478b1.jpg);
-  -webkit-background-siz: cover;
+  -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
